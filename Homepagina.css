@@ -1,0 +1,14 @@
+body{
+    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: yellowgreen;
+    color: white;
+    padding: 10px 0;
+    text-align: left;
+    justify-content: space-between;
+    align-items: center;
+}
